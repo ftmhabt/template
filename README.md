@@ -4,3 +4,5 @@ installed webpack, webpack-cli, html-webpack-plugin, css-loader, style-loader, a
 initialized webpack with css & img bundle, dev & prod config files, html template.
 
 added package.json scripts (start, build, debug, pages)
+
+should use with npm install
